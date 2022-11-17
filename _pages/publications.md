@@ -104,3 +104,11 @@ author_profile: true
 ​    **Discrete Extended Kalman Filter on Lie Groups**
 
 ​         **G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, EUSIPCO, 2013 [**[paper\]**](http://www.google.com/url?q=http%3A%2F%2Fwww.academia.edu%2F4745021%2FDiscrete_Extended_Kalman_Filter_on_Lie_groups&sa=D&sntz=1&usg=AOvVaw3v_r1i9NP_RLABwEVR7IF7)
+
+
+
+## Dissertation
+
+​    **Parameter estimation on Lie groups: Application to mapping and localization from a monocular camera**
+
+​         **G.Bourmaud**, Ph.D. dissertation (in french), University of Bordeaux, Nov. 2015  [**[pdf\]**](https://www.google.com/url?q=https%3A%2F%2Ftel.archives-ouvertes.fr%2Ftel-01271029%2F&sa=D&sntz=1&usg=AOvVaw3Z0b9WMtkTS48on7QEUyT-)   
