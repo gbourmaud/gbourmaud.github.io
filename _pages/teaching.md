@@ -17,7 +17,7 @@ SEE 3A Introduction aux réseaux de neurones pour l’apprentissage supervisé :
 
 TP correction de la distorsion : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FYTm4pZrcqoFVMBB%2Fdownload&sa=D&sntz=1&usg=AOvVaw3ltpjgNIUUFOIw9Mci0m47)  
 TP rectification homographique : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWLAFTuAGWiWOoKw%2Fdownload&sa=D&sntz=1&usg=AOvVaw0CSXAOhSbrGCxWJz49CpRP)  
-TP rectification stéréo : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FtGDazVO7pOravLR&sa=D&sntz=1&usg=AOvVaw3TOvcyvCEx1lH7WhpiYuYL) **,** [**8_pt**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FajUt8k3fzRE1eDB&sa=D&sntz=1&usg=AOvVaw0T5A--kWkIimOu-Y-KsUtA)  
+TP rectification stéréo : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FtGDazVO7pOravLR&sa=D&sntz=1&usg=AOvVaw3TOvcyvCEx1lH7WhpiYuYL) **,** [**8pt**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FajUt8k3fzRE1eDB&sa=D&sntz=1&usg=AOvVaw0T5A--kWkIimOu-Y-KsUtA)  
 TP mosaïque d'images aériennes : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F2QlNAJEDJddeUEW%2Fdownload&sa=D&sntz=1&usg=AOvVaw064_jKIQ8OIUbCIwfG0Qmz)  
 TP interpolation vues : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDxkty6f116HNBmo&sa=D&sntz=1&usg=AOvVaw1r0Nez3sh7osfDcMkMKlh_)  
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FR1KDxzoj2sctYAu%2Fdownload&sa=D&sntz=1&usg=AOvVaw2Ndx1vRb-6E3FYrx8eBkI-)**,** [**Lien code**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FpKqPf282mCygdyw%2Fdownload&sa=D&sntz=1&usg=AOvVaw0UMyArYC2jIpoNvqe8BW05)  
@@ -40,7 +40,7 @@ TP RNN Numpy : [**Lien sujet/code**](https://www.google.com/url?q=https%3A%2F%2F
 TP LSTM Numpy : [**Lien sujet/code**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FUjRcZdXlZCp4R1x%2Fdownload&sa=D&sntz=1&usg=AOvVaw2mL_m0sz12uP3sfbA6V1UC)  
 TP Auto-encodeur variationnel : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F1NsbfunXMIxW3nv%2Fdownload&sa=D&sntz=1&usg=AOvVaw2ux5UqcoPbwl6OhS44Q_qP)  
   
-Projet SE - IT398 - Deep Learning :  [**Lien sujet**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FQ63FJ8hu64QKcMs%2Fdownload&sa=D&sntz=1&usg=AOvVaw3N_3YnAFKf7PyzEhTSjn4T)
+Projet SE - IT398 - Deep Learning :  [**Lien sujet**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FQ63FJ8hu64QKcMs%2Fdownload&sa=D&sntz=1&usg=AOvVaw3N_3YnAFKf7PyzEhTSjn4T)  
 Projet T2 - TS228 - Deep Learning :  [**Lien sujet**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FjGqcC9KZmLSdVr1%2Fdownload&sa=D&sntz=1&usg=AOvVaw0bDnmHjBOEP4zCLnOZmRfd)
 
 
