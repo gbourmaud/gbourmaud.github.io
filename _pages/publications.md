@@ -55,49 +55,49 @@ author_profile: true
 
 >    **Online Variational Bayesian Motion Averaging**
 >
->    > *G.Bourmaud**, ECCV, 2016 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01718015%2Fdocument&sa=D&sntz=1&usg=AOvVaw1oWJ6IB0MwR6AOggAyjqrk) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FlGuKxEgXTCD1RTx&sa=D&sntz=1&usg=AOvVaw2CueLhMict8RblsOkAH14e) [**[spotlight\]**](http://www.google.com/url?q=http%3A%2F%2Fvideolectures.net%2Feccv2016_bourmaud_bayesian_motion%2F&sa=D&sntz=1&usg=AOvVaw2nf_zQqkwOy5QVabETIVAY) [**[poster\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWHAvH4TgADDevc3%2Fdownload&sa=D&sntz=1&usg=AOvVaw0zq8M8CQ8r7MlOeETWEudH) [**[video\]**](https://www.youtube.com/watch?v=gXsPhj6E97Q)
+>    > **G.Bourmaud**, ECCV, 2016 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01718015%2Fdocument&sa=D&sntz=1&usg=AOvVaw1oWJ6IB0MwR6AOggAyjqrk) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FlGuKxEgXTCD1RTx&sa=D&sntz=1&usg=AOvVaw2CueLhMict8RblsOkAH14e) [**[spotlight\]**](http://www.google.com/url?q=http%3A%2F%2Fvideolectures.net%2Feccv2016_bourmaud_bayesian_motion%2F&sa=D&sntz=1&usg=AOvVaw2nf_zQqkwOy5QVabETIVAY) [**[poster\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWHAvH4TgADDevc3%2Fdownload&sa=D&sntz=1&usg=AOvVaw0zq8M8CQ8r7MlOeETWEudH) [**[video\]**](https://www.youtube.com/watch?v=gXsPhj6E97Q)
 
 
 
 >   **From Intrinsic Optimization to Iterated Extended Kalman Filtering on Lie Groups**
 >
->   > *G.Bourmaud**, R.Megret, A.Giremus, Y.Berthoumieu, JMIV, 2016  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311169%2Fdocument&sa=D&sntz=1&usg=AOvVaw1_8VD4xMiEvz5l1oc8-Lk5) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FpsPRJkEY9AStI3F&sa=D&sntz=1&usg=AOvVaw2zwsEfNgYIGb2pvGJKEf_5)
+>   > **G.Bourmaud**, R.Megret, A.Giremus, Y.Berthoumieu, JMIV, 2016  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311169%2Fdocument&sa=D&sntz=1&usg=AOvVaw1_8VD4xMiEvz5l1oc8-Lk5) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FpsPRJkEY9AStI3F&sa=D&sntz=1&usg=AOvVaw2zwsEfNgYIGb2pvGJKEf_5)
 
  
 
 >    **Continuous-Discrete Extended Kalman Filter on Matrix Lie Groups Using Concentrated Gaussian Distributions**
 >
->    > *G.Bourmaud**, M.Arnaudon, R.Megret, A.Giremus, JMIV, 2015  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311170%2Fdocument&sa=D&sntz=1&usg=AOvVaw0TrU_DVsfEf_SR2YnL5Uau) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWrTWshfI1qxWZhM&sa=D&sntz=1&usg=AOvVaw2dcCtkv8oBCeziVkUsu7iZ)
+>    > **G.Bourmaud**, M.Arnaudon, R.Megret, A.Giremus, JMIV, 2015  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311170%2Fdocument&sa=D&sntz=1&usg=AOvVaw0TrU_DVsfEf_SR2YnL5Uau) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWrTWshfI1qxWZhM&sa=D&sntz=1&usg=AOvVaw2dcCtkv8oBCeziVkUsu7iZ)
 
 
 
 >    **Robust Wearable Camera Localization as a Target Tracking Problem on SE(3)**
 >
->    > *G.Bourmaud** and A.Giremus, BMVC, 2015 [**[paper\]**](http://www.google.com/url?q=http%3A%2F%2Fwww.bmva.org%2Fbmvc%2F2015%2Fpapers%2Fpaper039%2Fpaper039.pdf&sa=D&sntz=1&usg=AOvVaw1ex4XPwRFwoIF1YLHdaG9x) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FO4afSyT9WQIlphl&sa=D&sntz=1&usg=AOvVaw0sa8n_O0ZkJwpf7MOWJy73) [**[video\]**](https://www.youtube.com/watch?v=k4t7nOHt8Ac)
+>    > **G.Bourmaud** and A.Giremus, BMVC, 2015 [**[paper\]**](http://www.google.com/url?q=http%3A%2F%2Fwww.bmva.org%2Fbmvc%2F2015%2Fpapers%2Fpaper039%2Fpaper039.pdf&sa=D&sntz=1&usg=AOvVaw1ex4XPwRFwoIF1YLHdaG9x) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FO4afSyT9WQIlphl&sa=D&sntz=1&usg=AOvVaw0sa8n_O0ZkJwpf7MOWJy73) [**[video\]**](https://www.youtube.com/watch?v=k4t7nOHt8Ac)
 
    
 
 >    **Robust Large Scale Monocular Visual SLAM**
 >
->    > *G.Bourmaud** and Y.Berthoumieu, CVPR, 2015 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FYpdcoihNXzbiZ8z&sa=D&sntz=1&usg=AOvVaw3cFG6YYsZbCTYz_8hscAfL) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDDmX96iqgTi5MxM&sa=D&sntz=1&usg=AOvVaw3IUVpX7baTHuD8ehwyf0Z7) [**[video\]**](https://www.youtube.com/watch?v=EUHflAtI2gI)
+>    > **G.Bourmaud** and Y.Berthoumieu, CVPR, 2015 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FYpdcoihNXzbiZ8z&sa=D&sntz=1&usg=AOvVaw3cFG6YYsZbCTYz_8hscAfL) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDDmX96iqgTi5MxM&sa=D&sntz=1&usg=AOvVaw3IUVpX7baTHuD8ehwyf0Z7) [**[video\]**](https://www.youtube.com/watch?v=EUHflAtI2gI)
 
 
 
 >  **Global Motion Estimation from Relative Measurements in the Presence of Outliers**
 >
->  > *G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, ACCV, 2014 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807892%2FGlobal_Motion_Estimation_from_Relative_Measurements_in_the_Presence_of_Outliers&sa=D&sntz=1&usg=AOvVaw1wXq4mjRHJDkVarf83WhQz) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FtYHHy1yTViAWBfh&sa=D&sntz=1&usg=AOvVaw2EmbYD4W9q-9Qyt8HronJz) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F3CqMhkTtTeobbpn&sa=D&sntz=1&usg=AOvVaw35D6HZppSpcepGUz9bVH05)
+>  > **G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, ACCV, 2014 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807892%2FGlobal_Motion_Estimation_from_Relative_Measurements_in_the_Presence_of_Outliers&sa=D&sntz=1&usg=AOvVaw1wXq4mjRHJDkVarf83WhQz) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FtYHHy1yTViAWBfh&sa=D&sntz=1&usg=AOvVaw2EmbYD4W9q-9Qyt8HronJz) [**[Matlab code\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F3CqMhkTtTeobbpn&sa=D&sntz=1&usg=AOvVaw35D6HZppSpcepGUz9bVH05)
 
 
 
 >    **Global Motion Estimation from Relative Measurements using Iterated Extended Kalman Filter on Matrix Lie Groups**
 >
->    > *G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, ICIP, 2014 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807857%2FGLOBAL_MOTION_ESTIMATION_FROM_RELATIVE_MEASUREMENTS_USING_ITERATED_EXTENDED_KALMAN_FILTER_ON_MATRIX_LIE_GROUPS&sa=D&sntz=1&usg=AOvVaw1vBGiVGs8bT6ZtZhPabUHo)
+>    > **G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, ICIP, 2014 [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807857%2FGLOBAL_MOTION_ESTIMATION_FROM_RELATIVE_MEASUREMENTS_USING_ITERATED_EXTENDED_KALMAN_FILTER_ON_MATRIX_LIE_GROUPS&sa=D&sntz=1&usg=AOvVaw1vBGiVGs8bT6ZtZhPabUHo)
 
 
 
 >    **Discrete Extended Kalman Filter on Lie Groups**
 >
->    > *G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, EUSIPCO, 2013 [**[paper\]**](http://www.google.com/url?q=http%3A%2F%2Fwww.academia.edu%2F4745021%2FDiscrete_Extended_Kalman_Filter_on_Lie_groups&sa=D&sntz=1&usg=AOvVaw3v_r1i9NP_RLABwEVR7IF7)
+>    > **G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, EUSIPCO, 2013 [**[paper\]**](http://www.google.com/url?q=http%3A%2F%2Fwww.academia.edu%2F4745021%2FDiscrete_Extended_Kalman_Filter_on_Lie_groups&sa=D&sntz=1&usg=AOvVaw3v_r1i9NP_RLABwEVR7IF7)
 
 
 
@@ -105,4 +105,4 @@ author_profile: true
 
 >  **Parameter estimation on Lie groups: Application to mapping and localization from a monocular camera**
 >
->  > *G.Bourmaud**, Ph.D. dissertation (in french), University of Bordeaux, Nov. 2015  [**[pdf\]**](https://www.google.com/url?q=https%3A%2F%2Ftel.archives-ouvertes.fr%2Ftel-01271029%2F&sa=D&sntz=1&usg=AOvVaw3Z0b9WMtkTS48on7QEUyT-)   
+>  > **G.Bourmaud**, Ph.D. dissertation (in french), University of Bordeaux, Nov. 2015  [**[pdf\]**](https://www.google.com/url?q=https%3A%2F%2Ftel.archives-ouvertes.fr%2Ftel-01271029%2F&sa=D&sntz=1&usg=AOvVaw3Z0b9WMtkTS48on7QEUyT-)   
