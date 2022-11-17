@@ -54,8 +54,9 @@ author_profile: true
 
 
 >    **Online Variational Bayesian Motion Averaging**
->**G.Bourmaud**, ECCV, 2016 **
->    **[**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01718015%2Fdocument&sa=D&sntz=1&usg=AOvVaw1oWJ6IB0MwR6AOggAyjqrk) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FlGuKxEgXTCD1RTx&sa=D&sntz=1&usg=AOvVaw2CueLhMict8RblsOkAH14e) [**[spotlight\]**](http://www.google.com/url?q=http%3A%2F%2Fvideolectures.net%2Feccv2016_bourmaud_bayesian_motion%2F&sa=D&sntz=1&usg=AOvVaw2nf_zQqkwOy5QVabETIVAY) [**[poster\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWHAvH4TgADDevc3%2Fdownload&sa=D&sntz=1&usg=AOvVaw0zq8M8CQ8r7MlOeETWEudH) [**[video\]**](https://www.youtube.com/watch?v=gXsPhj6E97Q)
+>    **G.Bourmaud**, ECCV, 2016 
+>
+>    [**[paper\]**]((https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01718015%2Fdocument&sa=D&sntz=1&usg=AOvVaw1oWJ6IB0MwR6AOggAyjqrk) [**[supp. mat.\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FlGuKxEgXTCD1RTx&sa=D&sntz=1&usg=AOvVaw2CueLhMict8RblsOkAH14e) [**[spotlight\]**](http://www.google.com/url?q=http%3A%2F%2Fvideolectures.net%2Feccv2016_bourmaud_bayesian_motion%2F&sa=D&sntz=1&usg=AOvVaw2nf_zQqkwOy5QVabETIVAY) [**[poster\]**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWHAvH4TgADDevc3%2Fdownload&sa=D&sntz=1&usg=AOvVaw0zq8M8CQ8r7MlOeETWEudH) [**[video\]**](https://www.youtube.com/watch?v=gXsPhj6E97Q)
 
 
 
