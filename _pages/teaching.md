@@ -38,7 +38,7 @@ TP CNN PyTorch : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.co
   
 TP RNN Numpy : [**Lien sujet/code**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FvN5RIQTrV0r62Mn%2Fdownload&sa=D&sntz=1&usg=AOvVaw1877eARa125DebJAum6m00), [**Lien données**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDXdDKTd0pcKT1o2&sa=D&sntz=1&usg=AOvVaw3Dn6Gli0j0y2ID-K59XcwR)  
 TP LSTM Numpy : [**Lien sujet/code**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FUjRcZdXlZCp4R1x%2Fdownload&sa=D&sntz=1&usg=AOvVaw2mL_m0sz12uP3sfbA6V1UC)  
-TP Auto-encodeur variationnel : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F1NsbfunXMIxW3nv%2Fdownload&sa=D&sntz=1&usg=AOvVaw2ux5UqcoPbwl6OhS44Q_qP)  
+TP Auto-encodeur variationnel : [**Lien**](https://mycore.core-cloud.net/index.php/s/IhSdCupceQXmgRf/download)  
   
 Projet SE - IT398 - Deep Learning :  [**Lien sujet**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FQ63FJ8hu64QKcMs%2Fdownload&sa=D&sntz=1&usg=AOvVaw3N_3YnAFKf7PyzEhTSjn4T)  
 Projet T2 - TS228 - Deep Learning :  [**Lien sujet**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FjGqcC9KZmLSdVr1%2Fdownload&sa=D&sntz=1&usg=AOvVaw0bDnmHjBOEP4zCLnOZmRfd)
