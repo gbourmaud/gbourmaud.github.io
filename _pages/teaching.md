@@ -17,8 +17,8 @@ SEE 3A Introduction aux réseaux de neurones pour l’apprentissage supervisé :
 
 TP correction de la distorsion : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FYTm4pZrcqoFVMBB%2Fdownload&sa=D&sntz=1&usg=AOvVaw3ltpjgNIUUFOIw9Mci0m47)  
 TP rectification homographique : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWLAFTuAGWiWOoKw%2Fdownload&sa=D&sntz=1&usg=AOvVaw0CSXAOhSbrGCxWJz49CpRP)  
-TP rectification stéréo : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FtGDazVO7pOravLR&sa=D&sntz=1&usg=AOvVaw3TOvcyvCEx1lH7WhpiYuYL) **,** [**8pt**](https://www.google.com/url?q=https%3A%2F%2Fmycore.cnrs.fr%2Findex.php%2Fs%2FajUt8k3fzRE1eDB&sa=D&sntz=1&usg=AOvVaw0T5A--kWkIimOu-Y-KsUtA)  
 TP mosaïque d'images aériennes : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F2QlNAJEDJddeUEW%2Fdownload&sa=D&sntz=1&usg=AOvVaw064_jKIQ8OIUbCIwfG0Qmz)  
+TP rectification stéréo : [**Lien**](https://mycore.core-cloud.net/index.php/s/yFERnMtGIQh4lKM/download)  
 TP interpolation vues : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDxkty6f116HNBmo&sa=D&sntz=1&usg=AOvVaw1r0Nez3sh7osfDcMkMKlh_)  
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FR1KDxzoj2sctYAu%2Fdownload&sa=D&sntz=1&usg=AOvVaw2Ndx1vRb-6E3FYrx8eBkI-)**,** [**Lien code**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FpKqPf282mCygdyw%2Fdownload&sa=D&sntz=1&usg=AOvVaw0UMyArYC2jIpoNvqe8BW05)  
 
