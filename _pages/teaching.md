@@ -16,7 +16,7 @@ SEE 3A Introduction aux réseaux de neurones pour l’apprentissage supervisé :
 ## TP/TD/Projets -- Vision par ordinateur
 
 TP correction de la distorsion : [**Lien**](https://mycore.core-cloud.net/index.php/s/8AhvRdEXCh4cDtM/download)  
-TP rectification homographique : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FWLAFTuAGWiWOoKw%2Fdownload&sa=D&sntz=1&usg=AOvVaw0CSXAOhSbrGCxWJz49CpRP)  
+TP rectification homographique : [**Lien**](https://mycore.core-cloud.net/index.php/s/ZIe5G2uIUGf3YMu/download)  
 TP mosaïque d'images aériennes : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2F2QlNAJEDJddeUEW%2Fdownload&sa=D&sntz=1&usg=AOvVaw064_jKIQ8OIUbCIwfG0Qmz)  
 TP rectification stéréo : [**Lien**](https://mycore.core-cloud.net/index.php/s/yFERnMtGIQh4lKM/download)  
 TP interpolation vues : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FDxkty6f116HNBmo&sa=D&sntz=1&usg=AOvVaw1r0Nez3sh7osfDcMkMKlh_)  
