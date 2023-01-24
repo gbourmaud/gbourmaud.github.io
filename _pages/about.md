@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 - **Deep Generative Modelling - since 2018**
+- **Learning-based feature/image matching - since 2018**
 - **Deep Learning and Network Architectures - since 2017**
 - **Robust Optimization - since 2016**
 - **Gaussian Processes and Machine Learning - since 2016**
