@@ -29,7 +29,7 @@ Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://mycore.core-c
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
 
-TD MLP : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FoTKwS8Sv6JnMQH2%2Fdownload&sa=D&sntz=1&usg=AOvVaw2alMzTXQxtn5U6fH4nRR-q)  
+TD MLP : [**Lien**](https://mycore.core-cloud.net/index.php/s/ImauS8e9BYHaJgZ/download)  
 TP MLP Numpy jouet : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FGZpNqF8T3UOziZ3%2Fdownload&sa=D&sntz=1&usg=AOvVaw1f3fMVBSIrZffDXE9rVM2X)  
 TP MLP PyTorch jouet : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FrGTayezA6IYgzAD%2Fdownload&sa=D&sntz=1&usg=AOvVaw26iZC-2SNiJ64ON25oaF5q)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FG139MEforG2MkVi%2Fdownload&sa=D&sntz=1&usg=AOvVaw3HkROwJbSBDTV-HImec-5L)  
