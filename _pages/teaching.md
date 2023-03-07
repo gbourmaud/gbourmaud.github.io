@@ -33,6 +33,7 @@ TD MLP : [**Lien**](https://mycore.core-cloud.net/index.php/s/ImauS8e9BYHaJgZ/do
 TP MLP Numpy jouet : [**Lien**](https://mycore.core-cloud.net/index.php/s/7ZrPsN07A0gU8El/download)  
 TP MLP PyTorch jouet : [**Lien**](https://mycore.core-cloud.net/index.php/s/13LHaMHA0EQVDRZ/download)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2FG139MEforG2MkVi%2Fdownload&sa=D&sntz=1&usg=AOvVaw3HkROwJbSBDTV-HImec-5L)  
+TP CNN PyTorch (TS231) : [**Lien**](https://mycore.core-cloud.net/index.php/s/d6B2QilOxbKBQXa/download)  
 TP CNN PyTorch : [**Lien**](https://www.google.com/url?q=https%3A%2F%2Fmycore.core-cloud.net%2Findex.php%2Fs%2Fo59TvQuUiIAlnR8%2Fdownload&sa=D&sntz=1&usg=AOvVaw0zUwlwzShvRC4WLM8cmBKt)  
   
   
