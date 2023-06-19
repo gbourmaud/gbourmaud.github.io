@@ -29,7 +29,7 @@ Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](...)  [**Lien code**]
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
 
-TD MLP : [**Lien**](...)  
+TD MLP : [**Lien**](https://gbourmaud.github.io/files/TD_apprentissage_MLPv3.pdf)  
 TP MLP Numpy jouet : [**Lien**](https://gbourmaud.github.io/files/MLP_numpy.html)  
 TP MLP PyTorch jouet : [**Lien**](https://gbourmaud.github.io/files/TP_MLP_PyTorch_jouet.html)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://gbourmaud.github.io/files/TP_MNIST_PyTorch_TensorBoard.html)  
