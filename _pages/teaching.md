@@ -37,7 +37,7 @@ TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyT
 TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyTorch.html)  
   
   
-TP RNN Numpy : [**Lien sujet/code**](...), [**Lien données**](...)  
+TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/...)  
 TP LSTM Numpy : [**Lien sujet/code**](...)  
 TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.html)  
   
