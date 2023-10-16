@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>TP_RECTIFICATION_SETERO</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>TP_RECTIFICATION_STEREO</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14264,7 +14264,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Guillaume Bourmaud</strong></p>
+<p>Guillaume Bourmaud</p>
 
 </div>
 </div>
@@ -14306,7 +14306,7 @@ a.anchor-link {
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <p>Après avoir estimé la matrice fondamentale $F_{21}$, le script produit deux matrices : $H_{n1}$ et $H_{n2}$. Ces deux matrices sont des homographies à appliquer aux images <code>im1</code> et <code>im2</code> permettant d'obtenir une paire d'images stéréo. Plus précisément, la matrice d'homographie $H_{n1}$ permet de transformer un point du plan image de <code>im1</code> en un point du plan image de l'image rectifiée <code>im_1rect</code>. La matrice d'homographie $H_{n2}$ permet de transformer un point du plan image de <code>im2</code> en un point du plan image de l'image rectifiée <code>im_2rect</code>. Après transformations des images <code>im1</code> et <code>im2</code> à l'aide des homographies $H_{n1}$ et $H_{n2}$, les deux images résultantes <code>im_1rect</code>  et <code>im_2rect</code> forment une paire d'images stéréo.</p>
 <p><strong>Afin de réaliser correctement cette étape, il est fortement recommandé de dessiner un schéma représentant <code>im1</code>, <code>im2</code>, <code>im_1rect</code>  et <code>im_2rect</code>. Sur ce schéma doivent figurer les matrices $H_{n1}$ et $H_{n2}$.</strong></p>
-<p><strong>Dans un premier temps, les tailles des images <code>im_1rect</code>  et <code>im_2rect</code> pourront être fixées manuellement afin d'obtenir un premier résultat de rectification stéréo. Dans un second temps, il faudra calculer automatiquement les bornes de ces images afin qu'elles conservent</strong></p>
+<p><strong>Dans un premier temps, les tailles des images <code>im_1rect</code>  et <code>im_2rect</code> pourront être fixées manuellement afin d'obtenir un premier résultat de rectification stéréo. Dans un second temps, il faudra calculer automatiquement les bornes de ces images afin qu'elles conservent toute l'information visuelle contenue dans <code>im1</code> et <code>im2</code>.</strong></p>
 
 </div>
 </div>

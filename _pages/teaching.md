@@ -18,7 +18,7 @@ Elec2A - TS231 : [**Cours 1**](https://gbourmaud.github.io/files/Cours_2022_2023
 TP correction de la distorsion : [**Lien**](https://gbourmaud.github.io/files/TP_undistortion.zip)  
 TP rectification homographique : [**Lien**](https://gbourmaud.github.io/files/rectification_homographique.pdf)  
 TP mosaïque d'images aériennes : [**Lien**](https://gbourmaud.github.io/files/TP_Mosaique_image_aerienne.zip)  
-TP rectification stéréo : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RECTIFICATION_STEREO.html) [**Lien code**](...)  
+TP rectification stéréo : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RECTIFICATION_STEREO.html) [**Lien code**](https://gbourmaud.github.io/files/TP_RectificationStereo_squelette.zip)  
 TP interpolation vues : [**Lien**](...)  
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](...)**,** [**Lien code**](...)  
 
