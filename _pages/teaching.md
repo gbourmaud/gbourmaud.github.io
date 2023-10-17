@@ -35,7 +35,7 @@ TP MLP PyTorch jouet : [**Lien**](https://gbourmaud.github.io/files/TP_MLP_PyTor
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://gbourmaud.github.io/files/TP_MNIST_PyTorch_TensorBoard.html)  
 TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyTorch_TS231.html)  
 TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyTorch.html)  
-  
+TP Spécialisation ResNet (TS350) : [**Lien**](TP_specialisation_TSI_2023_2024.pdf)  
   
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/...)  
 TP LSTM Numpy : [**Lien sujet/code**](...)  
