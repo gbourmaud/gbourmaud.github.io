@@ -37,7 +37,7 @@ TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyT
 TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyTorch.html)  
 TP Spécialisation ResNet (TS350) : [**Lien**](https://gbourmaud.github.io/files/TP_specialisation_TSI_2023_2024.pdf)  
   
-TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/...)  
+TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
 TP LSTM Numpy : [**Lien sujet/code**](...)  
 TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.html)  
   
