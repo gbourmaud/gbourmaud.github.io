@@ -7,7 +7,7 @@ author_profile: true
 
 Option SE - IT398 : [**Cours 1**](https://gbourmaud.github.io/files/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_2.pdf)  
 Option TSI - TS350 : RAPPELS [**1**](https://gbourmaud.github.io/files/Cours_2023_2024_DL_1.pdf) [**2**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_2.pdf) [**3**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_3.pdf) [**RNN**](https://gbourmaud.github.io/files/RNN.pdf)  
-Option I2SC - TS347 : [**Cours RNN**](https://gbourmaud.github.io/files/RNN.pdf) [**Cours Transformers**](https://gbourmaud.github.io/files/cours_transformers.pdf) [**Cours Modèles génératifs profonds**](https://gbourmaud.github.io/files/cours_modeles_generatifs_profonds_2022_2023.pdf)  
+Option I2SC - TS347 : [**Cours RNN**](https://gbourmaud.github.io/files/RNN.pdf) [**Cours Transformers**](https://gbourmaud.github.io/files/cours_transformers.pdf) [**Cours Modèles génératifs profonds**](https://gbourmaud.github.io/files/cours_modeles_generatifs_profonds.pdf)  
 Telecom2A - TS228 : [**Cours 1**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_2.pdf) [**Cours 3**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_3.pdf)  
 Elec2A - TS231 : [**Cours 1**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_2.pdf) [**Cours 3**](https://gbourmaud.github.io/files/Cours_2022_2023_DL_3.pdf)  
 
@@ -39,7 +39,7 @@ TP Spécialisation ResNet (TS350) : [**Lien**](https://gbourmaud.github.io/files
   
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
 TP LSTM Numpy : [**Lien sujet/code**](...)  
-TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.html)  
+TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.ipynb)  
   
 Projet SE - IT398 - Deep Learning :  [**Lien sujet**](...)  
 Projet T2 - TS228 - Deep Learning :  [**Lien sujet**](...)
