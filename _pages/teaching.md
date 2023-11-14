@@ -40,6 +40,7 @@ TP Spécialisation ResNet (TS350) : [**Lien**](https://gbourmaud.github.io/files
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
 TP LSTM Numpy : [**Lien sujet/code**](...)  
 TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.ipynb)  
+TP Transformers PyTorch : [**Lien sujet**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/TP_description_image_Transformer.ipynb), [**Lien correction**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/correction.py)  
   
 Projet SE - IT398 - Deep Learning :  [**Lien sujet**](...)  
 Projet T2 - TS228 - Deep Learning :  [**Lien sujet**](...)
