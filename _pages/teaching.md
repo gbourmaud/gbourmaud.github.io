@@ -38,9 +38,11 @@ TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/TP_CNN_PyT
 TP Spécialisation ResNet : [**Lien**](https://gbourmaud.github.io/files/TP_specialisation_TSI_2023_2024.pdf)  
   
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
-TP LSTM Numpy : [**Lien sujet/code**](...)  
-TP Auto-encodeur variationnel : [**Lien**](https://gbourmaud.github.io/files/TP_VAE.ipynb)  
-TP Transformers PyTorch : [**Lien sujet**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/TP_description_image_Transformer.ipynb), [**Lien code**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/utils.zip), [**Lien correction**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/correction.py)  
+TP Transformers PyTorch : [**Lien sujet**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/TP_Transformer_pytorch/TP_description_image_Transformer.ipynb), [**Lien code**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/utils.zip), [**Lien correction**](https://gbourmaud.github.io/files/TP_Transformer_pytorch/correction.py)  
+
+TP Auto-encodeur variationnel : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/TP_VAE.ipynb)  
+TP Diffusion (réseau débruiteur) : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/TP_diffusion.ipynb)  
+
 
 
 
