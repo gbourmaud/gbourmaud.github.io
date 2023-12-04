@@ -34,7 +34,7 @@ TP MLP Numpy jouet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_lea
 TP MLP PyTorch jouet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.html)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.html)  
 TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch_TS231.html)  
-TP CNN PyTorch (TS228) : [**Lien**](gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.html)  
+TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.html)  
 TP Spécialisation ResNet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/TP_specialisation_TSI_2023_2024.pdf)  
   
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
