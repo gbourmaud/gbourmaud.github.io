@@ -16,7 +16,7 @@ Elec2A - TS231 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_lear
 ## TP/TD/Projets -- Vision par ordinateur
 
 TP correction de la distorsion : [**Lien**](https://gbourmaud.github.io/files/vision/TP/TP_undistortion.zip)  
-TP rectification homographique : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb) [**Annexe Moindres Carrés Linéaires**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb)  
+TP rectification homographique : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb) [**Annexe Moindres Carrés Linéaires**](https://github.com/gbourmaud/gbourmaud.github.io/files/vision/annexes/annexe_LS.pdf)  
 TP mosaïque d'images aériennes : [**Lien**](https://gbourmaud.github.io/files/vision/TP/TP_Mosaique_image_aerienne.zip)  
 TP rectification stéréo : [**Lien sujet**](https://gbourmaud.github.io/files/vision/TP/TP_RECTIFICATION_STEREO.html) [**Lien code**](https://gbourmaud.github.io/files/vision/TP/TP_RectificationStereo_squelette.zip)  
 TP interpolation vues : [**Lien**](https://gbourmaud.github.io/files/interp_vues_squelette.tar.gz)  
