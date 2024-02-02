@@ -31,7 +31,7 @@ Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.git
 TD MLP : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TD/TD_apprentissage_MLPv4.pdf)  
 TP MLP Numpy jouet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/MLP_numpy.html)  
 TP MLP PyTorch jouet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.html)  
-TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.html)  
+TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.ipynb)  
 TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch_TS231.html)  
 TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.html)  
 TP Spécialisation ResNet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/TP_specialisation_TSI_2023_2024.pdf)  
