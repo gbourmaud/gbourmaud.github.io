@@ -8,7 +8,7 @@ author_profile: true
 Option SE - IT398 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf) [**Cours 3**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2022_2023_DL_3.pdf)  
 Option TSI - TS350 : RAPPELS [**1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf) [**3**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2022_2023_DL_3.pdf) [**RNN**](https://gbourmaud.github.io/files/deep_learning_avance/cours/RNN.pdf) [**Transformers**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_transformers_2023_2024.pdf) [**Modèles génératifs profonds**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_modeles_generatifs_profonds.pdf)  
 Option I2SC - TS347 : [**RNN**](https://gbourmaud.github.io/files/deep_learning_avance/cours/RNN.pdf) [**Transformers**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_transformers_2023_2024.pdf) [**Modèles génératifs profonds**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_modeles_generatifs_profonds.pdf)  
-Telecom2A - IA200 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf) [**Cours 3**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2022_2023_DL_3.pdf)  
+Telecom2A - IA200 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf)  
 Elec2A - TS231 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf)  
 
 
@@ -28,7 +28,7 @@ Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.git
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
 
-TD MLP : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TD/TD_apprentissage_MLPv4.pdf)  
+TD MLP : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TD/TD_apprentissage_MLPv5.pdf)  
 TP MLP Numpy jouet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_MLP/MLP_numpy.html)  
 TP MLP PyTorch jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.ipynb)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.ipynb)  
