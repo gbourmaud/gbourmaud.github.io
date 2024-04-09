@@ -34,7 +34,7 @@ TP MLP Numpy exemple jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.g
 TP MLP Numpy MNIST (IA200) : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MLP_numpy_jouet_et_MNIST.ipynb)  
 TP MLP PyTorch exemple jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.ipynb)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.ipynb)  
-TP CNN PyTorch (TS231) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch_TS231.html)  
+TP CNN PyTorch (TSI) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch_TS231.html)  
 TP CNN PyTorch (TS228) : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.html)  
 TP Spécialisation ResNet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/TP_specialisation_TSI_2023_2024.pdf)  
   
