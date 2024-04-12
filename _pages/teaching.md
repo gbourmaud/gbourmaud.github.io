@@ -35,7 +35,7 @@ TP MLP Numpy MNIST (IA200) : [**Lien**](https://github.com/gbourmaud/gbourmaud.g
 TP MLP PyTorch exemple jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.ipynb)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.ipynb)  
 TP CNN PyTorch : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.ipynb)  
-TP Spécialisation ResNet : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/TP_specialisation_TSI_2023_2024.pdf)  
+TP Spécialisation ResNet ("Fine-Tuning") : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/sujet_TP_specialisation_frelons_2023_2024.pdf)  
   
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
 TP Transformers PyTorch : [**Lien sujet**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_Transformer_pytorch/TP_description_image_Transformer.ipynb), [**Lien code**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_Transformer_pytorch/utils.zip), [**Lien correction**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_Transformer_pytorch/correction.py)  
