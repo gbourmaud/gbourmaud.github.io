@@ -16,7 +16,8 @@ Elec2A - TS231 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_lear
 
 ## TP/TD/Projets -- Vision par ordinateur
 
-TP correction de la distorsion : [**Lien**](https://gbourmaud.github.io/files/vision/TP/TP_undistortion.zip)  
+Tutoriel "Appliquer une transformation à une image" : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/Tutoriel_transformation_image/tutoriel_rotation_image.ipynb)  
+TP correction de la distorsion : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_undistortion/correction_distorsion.ipynb)  
 TP rectification homographique : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb) [**Annexe Moindres Carrés Linéaires**](https://gbourmaud.github.io/files/vision/annexes/annexe_LS.pdf)  
 TP mosaïque d'images aériennes : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_mosaique_aerienne/TP_MOSAIQUE_AERIENNE.ipynb)  
 TP rectification stéréo : [**Lien sujet**](https://gbourmaud.github.io/files/vision/TP/TP_RECTIFICATION_STEREO.html) [**Lien code**](https://gbourmaud.github.io/files/vision/TP/TP_RectificationStereo_squelette.zip) [**Annexe Produit vectoriel**](https://gbourmaud.github.io/files/vision/annexes/annexe_produit_vectoriel.pdf) [**Annexe distance point-ligne**](https://gbourmaud.github.io/files/vision/annexes/annexe_dist_point_ligne.pdf)  
