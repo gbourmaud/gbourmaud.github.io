@@ -21,7 +21,7 @@ Tutoriel "Appliquer une transformation à une image" : [**Lien**](https://github
 TP correction de la distorsion : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_undistortion/correction_distorsion.ipynb)  
 TP rectification homographique : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb) [**Annexe Moindres Carrés Linéaires**](https://gbourmaud.github.io/files/vision/annexes/annexe_LS.pdf)  
 TP mosaïque d'images aériennes : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_mosaique_aerienne/TP_MOSAIQUE_AERIENNE.ipynb)  
-TP rectification stéréo : [**Lien sujet**](https://gbourmaud.github.io/files/vision/TP/TP_RECTIFICATION_STEREO.html) [**Lien code**](https://gbourmaud.github.io/files/vision/TP/TP_RectificationStereo_squelette.zip) [**Annexe Produit vectoriel**](https://gbourmaud.github.io/files/vision/annexes/annexe_produit_vectoriel.pdf) [**Annexe distance point-ligne**](https://gbourmaud.github.io/files/vision/annexes/annexe_dist_point_ligne.pdf)  
+TP rectification stéréo : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_stereo/TP_RECTIFICATION_STEREO.ipynb) [**Annexe Produit vectoriel**](https://gbourmaud.github.io/files/vision/annexes/annexe_produit_vectoriel.pdf) [**Annexe distance point-ligne**](https://gbourmaud.github.io/files/vision/annexes/annexe_dist_point_ligne.pdf)  
 TP interpolation vues : [**Lien**](https://gbourmaud.github.io/files/vision/TP/interp_vues_squelette.tar.gz)  
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](...)**,** [**Lien code**](...)  
 
