@@ -22,7 +22,8 @@ TP correction de la distorsion : [**Lien**](https://github.com/gbourmaud/gbourma
 TP rectification homographique : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_homographique/rectification_homographique.ipynb) [**Annexe Moindres Carrés Linéaires**](https://gbourmaud.github.io/files/vision/annexes/annexe_LS.pdf)  
 TP mosaïque d'images aériennes : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_mosaique_aerienne/TP_MOSAIQUE_AERIENNE.ipynb)  
 TP rectification stéréo : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_rectification_stereo/TP_RECTIFICATION_STEREO.ipynb) [**Annexe Produit vectoriel**](https://gbourmaud.github.io/files/vision/annexes/annexe_produit_vectoriel.pdf) [**Annexe distance point-ligne**](https://gbourmaud.github.io/files/vision/annexes/annexe_dist_point_ligne.pdf)  
-TP interpolation vues : [**Lien**](https://gbourmaud.github.io/files/vision/TP/interp_vues_squelette.tar.gz)  
+TP "Bundle Adjustment" : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/vision/TP/TP_bundle_adjustment/TP_BUNDLE_ADJUSTMENT.ipynb)  
+TP interpolation vues : [**Lien**](...)  
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](...)**,** [**Lien code**](...)  
 
   
