@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Option SE - IT398 : [**CNN**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_IA201_2_CNN.pdf)  
+Option SE - IT398 : [**CNN**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_IA201_2_CNN.pdf) [**Réseaux profonds**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_IA201_3_Deep.pdf)  
 Option TSI - TS350 : [**CNN**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_IA201_2_CNN.pdf) [**RNN**](https://gbourmaud.github.io/files/deep_learning_avance/cours/RNN.pdf) [**Transformers**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_transformers_2023_2024.pdf) [**Modèles génératifs profonds**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_modeles_generatifs_profonds.pdf)  
 Option I2SC - TS347 : [**RNN**](https://gbourmaud.github.io/files/deep_learning_avance/cours/RNN.pdf) [**Transformers**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_transformers_2023_2024.pdf) [**Modèles génératifs profonds**](https://gbourmaud.github.io/files/deep_learning_avance/cours/cours_modeles_generatifs_profonds.pdf)  
 Telecom2A - IA200 : [**Cours 1**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_1.pdf) [**Cours 2**](https://gbourmaud.github.io/files/intro_deep_learning/cours/Cours_2023_2024_DL_2.pdf)  
