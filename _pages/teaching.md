@@ -43,13 +43,6 @@ TP Spécialisation ResNet ("Fine-Tuning") : [**Lien**](https://gbourmaud.github.
 TP RNN Numpy : [**Lien sujet**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/TP_description_image_RNN.pdf), [**Lien code**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_RNN_numpy/utils.zip), [**Lien COCO**](https://thor.enseirb-matmeca.fr/ruby/projects/)  
 TP Transformers PyTorch : [**Lien sujet**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_Transformer_pytorch/TP_description_image_Transformer.ipynb), [**Lien code**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_Transformer_pytorch/utils.zip), [**Lien correction**](https://gbourmaud.github.io/files/deep_learning_avance/TP/TP_Transformer_pytorch/correction.py)  
 
-TP Auto-encodeur variationnel : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_VAE.ipynb)  
-TP Diffusion (réseau débruiteur) : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_diffusion.ipynb)  
+TP Auto-encodeur variationnel : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_VAE/TP_VAE.ipynb)  
+TP Diffusion (réseau débruiteur) : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/deep_learning_avance/TP/TP_diffusion/TP_diffusion.ipynb)  
 
-
-
-
-## Données
-
-Images Introduction au Traitement des Images : [**Lien**](...)  
-Images GoPro2 : [**Lien**](...)
