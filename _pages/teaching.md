@@ -27,7 +27,7 @@ TP interpolation vues : [**Lien**](...)
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](...)**,** [**Lien code**](...)  
 
   
-Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.github.io/files/vision/projet/sujet_2023_2024.pdf)
+Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.github.io/files/vision/projet/sujet_2024_2025.pdf) [**Lien code**](https://gbourmaud.github.io/files/vision/projet/students.zip)  
 
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
