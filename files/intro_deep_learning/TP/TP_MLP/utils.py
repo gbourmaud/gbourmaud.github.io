@@ -11,8 +11,8 @@ def plot_contours(ax, model, xx, yy, **params):
     yy: meshgrid ndarray
     params: dictionary of params to pass to contourf, optional
     """
-    _,_,_,O = model.forward(np.c_[xx.ravel(), yy.ravel()])
-    pred = np.argmax(O, axis=1)
+    _,_,_,S = model.forward(np.c_[xx.ravel(), yy.ravel()])
+    pred = np.argmax(S, axis=1)
     Z = pred.reshape(xx.shape)
     out = ax.contourf(xx, yy, Z, **params)
     
