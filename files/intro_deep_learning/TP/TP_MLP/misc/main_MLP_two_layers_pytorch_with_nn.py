@@ -142,7 +142,7 @@ while 1:
     print('Iter {} | Training Loss = {} | Training Accuracy = {}%'.format(it,c,acc*100))
 
     #Backward Pass (Compute Gradient)
-    optimizer.zero_gradients()
+    optimizer.zero_grad()
     c.backward()
     
     #Update Parameters

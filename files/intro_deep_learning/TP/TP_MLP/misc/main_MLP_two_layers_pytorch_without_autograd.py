@@ -135,7 +135,7 @@ class GradientDescentWithMomentum:
             self.model.b1 -= self.lr*self.Vb1
             self.model.b3 -= self.lr*self.Vb3
     
-    def zero_gradients(self):
+    def zero_grad(self):
         self.model.dc_dW1.zero_()
         self.model.dc_db1.zero_()
         self.model.dc_dW3.zero_()
@@ -193,7 +193,7 @@ while 1:
     print('Iter {} | Training Loss = {} | Training Accuracy = {}%'.format(it,c,acc*100))
 
     #Backward Pass (Compute Gradient)
-    optimizer.zero_gradients()
+    optimizer.zero_grad()
     model.backward(dc_dS, S, X2, X1, X0)
     
     #Update Parameters
