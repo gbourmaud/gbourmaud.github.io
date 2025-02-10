@@ -118,17 +118,22 @@ class GradientDescentWithMomentum:
         self.Vb3 = t.zeros_like(self.model.b3)
         
     def step(self):
-        self.VW1 = self.beta*self.VW1 + (1.0-self.beta)*self.model.dc_dW1
-        self.model.W1 -= self.lr*self.VW1
-
-        self.VW3 = self.beta*self.VW3 + (1.0-self.beta)*self.model.dc_dW3
-        self.model.W3 -= self.lr*self.VW3
-    
-        self.Vb1 = self.beta*self.Vb1 + (1.0-self.beta)*self.model.dc_db1
-        self.model.b1 -= self.lr*self.Vb1
-    
-        self.Vb3 = self.beta*self.Vb3 + (1.0-self.beta)*self.model.dc_db3
-        self.model.b3 -= self.lr*self.Vb3
+        with t.no_grad():
+            if(i==0):
+                self.VW1 = self.model.dc_dW1      
+                self.VW3 = self.model.dc_dW3         
+                self.Vb1 = self.model.dc_db1           
+                self.Vb3 = self.model.dc_db3
+            else:            
+                self.VW1 = self.beta*self.VW1 + self.model.dc_dW1
+                self.VW3 = self.beta*self.VW3 + self.model.dc_dW3
+                self.Vb1 = self.beta*self.Vb1 + self.model.dc_db1
+                self.Vb3 = self.beta*self.Vb3 + self.model.dc_db3
+            
+            self.model.W1 -= self.lr*self.VW1
+            self.model.W3 -= self.lr*self.VW3
+            self.model.b1 -= self.lr*self.Vb1
+            self.model.b3 -= self.lr*self.Vb3
     
     def zero_gradients(self):
         self.model.dc_dW1.zero_()
