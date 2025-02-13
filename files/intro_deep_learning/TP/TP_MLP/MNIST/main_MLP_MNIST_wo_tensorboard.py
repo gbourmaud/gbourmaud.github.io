@@ -194,26 +194,3 @@ for epoch in range(n_epoch_max):
         print('Saving model : {}% valid accuracy'.format(100 * correct / total))
     
     
-# # #%% plot results
-# plt.figure(2)
-# plt.clf()
-# plt.plot(training_loss_v,'r',label='Training loss')
-# plt.legend()
-
-# plt.figure(3)
-# plt.clf()
-# plt.plot(valid_acc_v,'g',label='Validation accuracy')
-# plt.legend()
-
-# (images, labels,_) = iter(valid_loader).next()
-# images_vec = images.reshape(-1, 28*28)
-# outputs = model(images_vec)
-# _, predicted = torch.max(outputs.data, 1)
-# plt.figure(4)
-# plt.clf()
-# for i in range(7):
-#     for j in range(3):
-#         image = images[i+(7*j),:]
-#         plt.subplot(3,7,1+i+(7*j))
-#         plt.imshow(T.ToPILImage()(image))
-#         plt.title('True {} / Pred {}'.format(labels[i+(7*j)], predicted[i+(7*j)]))
