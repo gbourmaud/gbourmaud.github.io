@@ -11,7 +11,7 @@ print('Using device:', device)
 H = 30
 model = MLP(H).to(device) #moves the model to GPU if available
 
-model.load_state_dict(torch.load('model.pt', weights_only=True))
+model.load_state_dict(torch.load('model.pt'))
 model.eval()
 
 
