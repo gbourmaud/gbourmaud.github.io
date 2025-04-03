@@ -37,6 +37,7 @@ TP MLP Numpy exemple jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.g
 TP MLP Numpy MNIST (IA200) : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/IA200/TP_MLP_numpy_jouet_et_MNIST.ipynb)  
 TP MLP PyTorch exemple jouet : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MLP_PyTorch_jouet.ipynb)  
 TP MLP PyTorch MNIST Tensorboard : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/TP_MNIST_PyTorch_TensorBoard.ipynb)  
+TP MLP PyTorch MNIST Tensorboard (IA201): [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_MLP/IA201/TP_MNIST_PyTorch_TensorBoard_IA201.ipynb)  
 TP CNN PyTorch : [**Lien**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/intro_deep_learning/TP/TP_CNN/TP_CNN_PyTorch.ipynb)  
 TP Spécialisation ResNet ("Fine-Tuning") : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TP/TP_specialisation/sujet_TP_specialisation_frelons_2023_2024.pdf)  
   
