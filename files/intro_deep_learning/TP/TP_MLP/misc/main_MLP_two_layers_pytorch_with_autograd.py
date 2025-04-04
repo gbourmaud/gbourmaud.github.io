@@ -88,13 +88,17 @@ class GradientDescentWithMomentum:
         self.VW3 = t.zeros_like(self.model.W3)
         self.Vb3 = t.zeros_like(self.model.b3)
       
+        self.is_init = True
+
     def step(self):
         with t.no_grad():
-            if(i==0):
+            if(self.is_init == True):
                 self.VW1 = self.model.W1.grad        
                 self.VW3 = self.model.W3.grad            
                 self.Vb1 = self.model.b1.grad            
-                self.Vb3 = self.model.fc3.bias.grad
+                self.Vb3 = self.model.b3.grad
+                
+                self.is_init = False
             else:            
                 self.VW1 = self.beta*self.VW1 + self.model.W1.grad
                 self.VW3 = self.beta*self.VW3 + self.model.W3.grad
@@ -152,7 +156,8 @@ model = MLP(H)
 optimizer = GradientDescentWithMomentum(model, beta, lr)
 
 it = 0
-while 1:    
+while 1:
+   
     #Forward Pass
     X0,X1,X2,S = model.forward(X)
     

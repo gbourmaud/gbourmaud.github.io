@@ -71,9 +71,7 @@ class MLP(nn.Module):
     
 class GradientDescentWithMomentum:
     def __init__(self, model, beta, lr):
-        
-        self.it = 0
-        
+                
         self.model = model
         self.beta= beta
         self.lr = lr
@@ -84,13 +82,15 @@ class GradientDescentWithMomentum:
         self.VW3 = t.zeros_like(self.model.fc3.weight)
         self.Vb3 = t.zeros_like(self.model.fc3.bias)
         
+        self.is_init = True
     def step(self):
         with t.no_grad():
-            if(i==0):
+            if(self.is_init == True):
                 self.VW1 = self.model.fc1.weight.grad        
                 self.VW3 = self.model.fc3.weight.grad            
                 self.Vb1 = self.model.fc1.bias.grad            
                 self.Vb3 = self.model.fc3.bias.grad
+                self.is_init = False
             else:            
                 self.VW1 = self.beta*self.VW1 + self.model.fc1.weight.grad
                 self.VW3 = self.beta*self.VW3 + self.model.fc3.weight.grad

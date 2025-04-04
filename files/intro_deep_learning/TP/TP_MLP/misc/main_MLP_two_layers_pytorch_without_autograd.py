@@ -117,13 +117,17 @@ class GradientDescentWithMomentum:
         self.VW3 = t.zeros_like(self.model.W3)
         self.Vb3 = t.zeros_like(self.model.b3)
         
+        self.is_init = True
+
     def step(self):
         with t.no_grad():
-            if(i==0):
-                self.VW1 = self.model.dc_dW1      
-                self.VW3 = self.model.dc_dW3         
-                self.Vb1 = self.model.dc_db1           
+            if(self.is_init == True):
+                self.VW1 = self.model.dc_dW1
+                self.VW3 = self.model.dc_dW3
+                self.Vb1 = self.model.dc_db1
                 self.Vb3 = self.model.dc_db3
+                
+                self.is_init = False
             else:            
                 self.VW1 = self.beta*self.VW1 + self.model.dc_dW1
                 self.VW3 = self.beta*self.VW3 + self.model.dc_dW3
