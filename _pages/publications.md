@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+> **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**  
+>T. Loiseau, **G.Bourmaud**, CVPR, 2025  
+> [**[paper+supp.mat\]**]() [**[code\]**](soon)     
+
+
 
 > **Visual Correspondence Hallucination**  
 >H. Germain, V. Lepetit and **G.Bourmaud**, ICLR, 2022  
@@ -19,7 +24,7 @@ author_profile: true
 
 > **S2DNet: Learning Image Features for Accurate Sparse-to-Dense Matching**  
 >H. Germain, **G.Bourmaud** and V. Lepetit, ECCV, 2020  
-> [**[paper\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_paper.pdf) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_supp.pdf) [**[spotlight\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_oral.mp4) [**[code\]**](https://github.com/germain-hug/S2DNet-Minimal) 
+> [**[paper\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_paper.pdf) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_supp.pdf) [**[code\]**](https://github.com/germain-hug/S2DNet-Minimal) 
 
 
 
@@ -79,7 +84,7 @@ author_profile: true
 
 >    **Robust Large Scale Monocular Visual SLAM**  
 >**G.Bourmaud** and Y.Berthoumieu, CVPR, 2015  
->    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/CVPR_2015_supp.pdf) [**[Matlab code\]**](https://gbourmaud.github.io/files/publications/CVPR_2015_code.tar.xz) [**[video\]**](https://www.youtube.com/watch?v=EUHflAtI2gI)
+>    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/CVPR_2015_supp.pdf) [**[Matlab code\]**](on request) [**[video\]**](https://www.youtube.com/watch?v=EUHflAtI2gI)
 
 
 
