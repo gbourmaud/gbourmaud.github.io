@@ -12,19 +12,19 @@ author_profile: true
 
 > **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**  
 >T. Loiseau, **G.Bourmaud**, CVPR, 2025  
-> [**[paper+supp.mat\]**](https://arxiv.org/pdf/2502.19955) [**[code\]**](https://github.com/thibautloiseau/RUBIK)     
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2502.19955) [**[code\]**](https://github.com/thibautloiseau/RUBIK)     
 
 
 
 > **Visual Correspondence Hallucination**  
 >H. Germain, V. Lepetit and **G.Bourmaud**, ICLR, 2022  
-> [**[paper+supp.mat\]**](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F2106.09711.pdf&sa=D&sntz=1&usg=AOvVaw2vEmMW_dpp7wG3FrgpMwqW) [**[code\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.hugogermain.com%2Fneurhal&sa=D&sntz=1&usg=AOvVaw2TmjfgyvUs951x6OxQxLPh)     
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2106.09711) [**[code\]**](https://github.com/germain-hug/NeurHal)     
 
 
 
 > **Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation**  
 >H. Germain, V. Lepetit and **G.Bourmaud**, CVPR, 2021  
-> [**[paper+supp.mat\]**](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fpdf%2F2103.07153.pdf&sa=D&sntz=1&usg=AOvVaw2ziKrwNKjmR2A_L2G8YqWq) [**[code\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.hugogermain.com%2Fnre&sa=D&sntz=1&usg=AOvVaw1EoB585x86NeHaU32465FZ)     
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2103.07153) [**[code\]**](https://github.com/germain-hug/NRE)     
 
 
 
