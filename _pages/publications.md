@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 > **Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression**  
->T. Loiseau, **G.Bourmaud** and V. Lepetit, NeurIPS, 2025  
+>T. Loiseau, **G.Bourmaud** and V. Lepetit, NeurIPS (Spotlight), 2025  
 > [**[paper+supp.mat\]**](https://arxiv.org/abs/2503.07561) [**[code\]**](soon)     
 
 
@@ -29,7 +29,7 @@ author_profile: true
 
 
 > **S2DNet: Learning Image Features for Accurate Sparse-to-Dense Matching**  
->H. Germain, **G.Bourmaud** and V. Lepetit, ECCV, 2020  
+>H. Germain, **G.Bourmaud** and V. Lepetit, ECCV (Spotlight), 2020  
 > [**[paper\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_paper.pdf) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ECCV_2020_supp.pdf) [**[code\]**](https://github.com/germain-hug/S2DNet-Minimal) 
 
 
@@ -65,7 +65,7 @@ author_profile: true
 
 
 >    **Online Variational Bayesian Motion Averaging**  
->    **G.Bourmaud**, ECCV, 2016  
+>    **G.Bourmaud**, ECCV (Spotlight), 2016  
 >    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01718015%2Fdocument&sa=D&sntz=1&usg=AOvVaw1oWJ6IB0MwR6AOggAyjqrk) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ECCV_2016_supp.pdf) [**[spotlight\]**](http://www.google.com/url?q=http%3A%2F%2Fvideolectures.net%2Feccv2016_bourmaud_bayesian_motion%2F&sa=D&sntz=1&usg=AOvVaw2nf_zQqkwOy5QVabETIVAY) [**[poster\]**](https://gbourmaud.github.io/files/publications/ECCV_2016_poster.pdf) [**[video\]**](https://www.youtube.com/watch?v=gXsPhj6E97Q)
 
 
