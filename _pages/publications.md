@@ -4,9 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+> **Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression**  
+>T. Loiseau, **G.Bourmaud** and V. Lepetit, NeurIPS, 2025  
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2503.07561) [**[code\]**](soon)     
+
+
+
 > **RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges**  
 >T. Loiseau, **G.Bourmaud**, CVPR, 2025  
-> [**[paper+supp.mat\]**]() [**[code\]**](soon)     
+> [**[paper+supp.mat\]**](https://arxiv.org/pdf/2502.19955) [**[code\]**](https://github.com/thibautloiseau/RUBIK)     
 
 
 
