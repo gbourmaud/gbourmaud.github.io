@@ -27,11 +27,11 @@ TP interpolation vues : [**Lien**](...)
 TP SGM "Semi-Global Matching" : [**Préparation du TP**](...)**,** [**Lien code**](...)  
 
   
-Projet TSI - TS327 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.github.io/files/vision/projet/sujet_2024_2025.pdf) [**Lien code**](https://gbourmaud.github.io/files/vision/projet/students.zip)  
+Projet TSI - TIMG2 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.github.io/files/vision/projet/sujet_2025_2026.pdf)
 
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
-Configuration GPU/Environnement PyTorch Enseirb :  [**Lien tuto**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/config_gpu_enseirb/tuto_config_gpu.ipynb)
+Configuration GPU/Environnement PyTorch Enseirb :  [**Lien tuto**](SOON)
 
 
 TD MLP : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TD/TD_apprentissage_MLPv7.pdf)  
