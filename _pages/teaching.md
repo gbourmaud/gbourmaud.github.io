@@ -31,7 +31,7 @@ Projet TSI - TIMG2 - Reconstruction 3D :  [**Lien sujet**](https://gbourmaud.git
 
 
 ## TP/TD/Projets -- Apprentissage profond (Deep Learning)
-Configuration GPU/Environnement PyTorch Enseirb :  [**Lien tuto**](SOON)
+Configuration GPU/Environnement PyTorch Enseirb :  [**Lien tuto**](https://github.com/gbourmaud/gbourmaud.github.io/blob/master/files/config_gpu_enseirb/tuto_config_gpu.ipynb)
 
 
 TD MLP : [**Lien**](https://gbourmaud.github.io/files/intro_deep_learning/TD/TD_apprentissage_MLPv7.pdf)  
