@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+- **3D foundations models / Pre-training - since 2024**
 - **Deep Generative Modelling - since 2018**
 - **Learning-based feature/image matching - since 2018**
 - **Deep Learning and Network Architectures - since 2017**
