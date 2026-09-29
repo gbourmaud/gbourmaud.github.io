@@ -9,19 +9,19 @@ For the full list of publications, please visit my [Google Scholar profile](http
 
 
 > **From Visibility to Geometry: Efficient Training for Feed-Forward 3D Reconstruction**  
->T. Loiseau, D. Nordström, F. Kahl, V. Lepetit and **G. Bourmaud**, Submitted at ICLR 2027 
+>T. Loiseau, D. Nordström, F. Kahl, V. Lepetit and **G. Bourmaud**, Submitted at ICLR 2027  
 > [**[paper+supp.mat\]**](soon) [**[website\]**](soon) 
 
 
 
 > **Emergent Multi-View Geometry Through Self-Distillation**  
->D. Nordström, T. Loiseau, V. Lepetit, M. Felsberg, **G. Bourmaud**, F. Kahl, Submitted at ICLR 2027 
+>D. Nordström, T. Loiseau, V. Lepetit, M. Felsberg, **G. Bourmaud**, F. Kahl, Submitted at ICLR 2027  
 > [**[paper+supp.mat\]**](soon) [**[website\]**](https://www.davnords.com/poincar3) 
 
 
 
 > **Getting Your Guidance Weights Right in diffusion and flow-matching posterior sampling**  
->L. Moroy, J-F. Giovannelli, Y. Altmann, S. McLaughlin, F. Champagnat and **G. Bourmaud**, Submitted at ICLR 2027 
+>L. Moroy, J-F. Giovannelli, Y. Altmann, S. McLaughlin, F. Champagnat and **G. Bourmaud**, Submitted at ICLR 2027  
 > [**[paper+supp.mat\]**](soon)
 
 
