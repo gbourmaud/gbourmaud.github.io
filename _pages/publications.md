@@ -5,17 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**
-T. Loiseau, **G. Bourmaud**, V. Lepetit · *Preprint, 2026*
-[paper + supp. mat.](https://arxiv.org/abs/2609.01530) · [website](https://thibautloiseau.github.io/projects/gekko/)
+For the full list of publications, please visit my [Google Scholar profile](http://scholar.google.fr/citations?user=d4v2IYMAAAAJ&hl=fr).
 
-**Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression**
-T. Loiseau, **G. Bourmaud**, V. Lepetit · *NeurIPS 2025, Spotlight*
-[paper + supp. mat.](https://arxiv.org/abs/2503.07561) · [code](https://github.com/thibautloiseau/alligat0r)
+
+> **From Visibility to Geometry: Efficient Training for Feed-Forward 3D Reconstruction**  
+>T. Loiseau, D. Nordström, F. Kahl, V. Lepetit and **G. Bourmaud**, Submitted at ICLR 2027 
+> [**[paper+supp.mat\]**](soon) [**[website\]**](soon) 
+
+
+
+> **Emergent Multi-View Geometry Through Self-Distillation**  
+>D. Nordström, T. Loiseau, V. Lepetit, M. Felsberg, **G. Bourmaud**, F. Kahl, Submitted at ICLR 2027 
+> [**[paper+supp.mat\]**](soon) [**[website\]**](https://www.davnords.com/poincar3) 
+
+
 
 > **Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**  
->T. Loiseau, **G.Bourmaud** and V. Lepetit, preprint, 2026  
-> [**[paper+supp.mat\]**](https://arxiv.org/abs/2609.01530) [**[code\]**](https://thibautloiseau.github.io/projects/gekko/)     
+>T. Loiseau, V. Lepetit and **G.Bourmaud**, NeurIPS, 2026  
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2609.01530) [**[website\]**](https://thibautloiseau.github.io/projects/gekko/)     
 
 
 
