@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guillaume Bourmaud"
   avatar           : "profile.jpg"
-  bio              : 'Associate Professor at [Univ. Bordeaux](https://www.u-bordeaux.fr/), [CNRS](https://www.cnrs.fr/), [Bordeaux INP](https://www.bordeaux-inp.fr/), [IMS, UMR 5218](https://www.ims-bordeaux.fr/)'
+  bio: 'Associate Professor at <strong>TEST</strong>'
   location         : "Bordeaux, France"
   employer         : 
   pubmed           :
