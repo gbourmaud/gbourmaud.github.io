@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Guillaume Bourmaud"
   avatar           : "profile.jpg"
-  bio              : "Associate Professor at Univ. Bordeaux, CNRS, Bordeaux INP, IMS, UMR 5218"
+  bio              : "Associate Professor at Univ. Bordeaux, CNRS, Bordeaux INP, [IMS, UMR 5218](https://www.ims-bordeaux.fr/)"
   location         : "Bordeaux, France"
-  employer         : 
+  employer         :
   pubmed           :
   googlescholar    : "http://scholar.google.fr/citations?user=d4v2IYMAAAAJ&hl=fr"
   email            :  guillaume.bourmaud@u-bordeaux.fr
