@@ -4,6 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**
+T. Loiseau, **G. Bourmaud**, V. Lepetit · *Preprint, 2026*
+[paper + supp. mat.](https://arxiv.org/abs/2609.01530) · [website](https://thibautloiseau.github.io/projects/gekko/)
+
+**Alligat0R: Pre-Training through Covisibility Segmentation for Relative Camera Pose Regression**
+T. Loiseau, **G. Bourmaud**, V. Lepetit · *NeurIPS 2025, Spotlight*
+[paper + supp. mat.](https://arxiv.org/abs/2503.07561) · [code](https://github.com/thibautloiseau/alligat0r)
+
 > **Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**  
 >T. Loiseau, **G.Bourmaud** and V. Lepetit, preprint, 2026  
 > [**[paper+supp.mat\]**](https://arxiv.org/abs/2609.01530) [**[code\]**](https://thibautloiseau.github.io/projects/gekko/)     
