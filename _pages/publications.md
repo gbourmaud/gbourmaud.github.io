@@ -20,6 +20,12 @@ For the full list of publications, please visit my [Google Scholar profile](http
 
 
 
+> **Getting Your Guidance Weights Right in diffusion and flow-matching posterior sampling**  
+>L. Moroy, J-F. Giovannelli, Y. Altmann, S. McLaughlin, F. Champagnat and **G. Bourmaud**, Submitted at ICLR 2027 
+> [**[paper+supp.mat\]**](soon)
+
+
+
 > **Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**  
 >T. Loiseau, V. Lepetit and **G.Bourmaud**, NeurIPS, 2026  
 > [**[paper+supp.mat\]**](https://arxiv.org/abs/2609.01530) [**[website\]**](https://thibautloiseau.github.io/projects/gekko/)     
