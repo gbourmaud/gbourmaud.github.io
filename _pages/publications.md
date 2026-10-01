@@ -16,7 +16,7 @@ For the full list of publications, please visit my [Google Scholar profile](http
 
 > **Emergent Multi-View Geometry Through Self-Distillation**  
 >D. Nordström, T. Loiseau, V. Lepetit, M. Felsberg, **G. Bourmaud**, F. Kahl, Submitted at ICLR 2027  
-> [**[paper+supp.mat\]**](soon) [**[website\]**](https://www.davnords.com/poincar3) 
+> [**[paper+supp.mat\]**](https://arxiv.org/abs/2609.39227) [**[website\]**](https://www.davnords.com/poincar3) 
 
 
 
