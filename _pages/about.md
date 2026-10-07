@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "Guillaume Bourmaud"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- **3D foundation models / Pre-training - since 2024**
-- **Deep Generative Modelling - since 2018**
-- **Learning-based feature/image matching - since 2018**
-- **Deep Learning and Network Architectures - since 2017**
-- **Robust Optimization - since 2016**
-- **Gaussian Processes and Machine Learning - since 2016**
-- **Visual SLAM, 3D Reconstruction and 3D Localization - since 2014**
-- **Filtering and Optimization on Manifolds - since 2012**
+I am an Associate Professor at Bordeaux INP, with teaching activities at the engineering school ENSEIRB-MATMECA and research activities at the IMS Laboratory, within the Signal and Image group.
+
+My research lies at the intersection of 3D computer vision and machine learning, with a current focus on learning 4D geometry from visual experience. I am particularly interested in how the three-dimensional structure of dynamic scenes, together with their evolution over time, can be recovered directly from raw 2D images, without relying on labeled data. More broadly, my work investigates how geometric representations of the visual world can be learned directly from visual data.
+
+Over the years, I have worked on 3D foundation models and pre-training, self-supervised learning, deep generative modeling, learning-based feature and image matching, deep learning architectures, robust optimization, Gaussian processes, visual SLAM, 3D reconstruction and localization, as well as filtering and optimization on manifolds.
+
