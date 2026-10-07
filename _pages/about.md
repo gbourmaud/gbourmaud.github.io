@@ -14,5 +14,7 @@ My research lies at the intersection of 3D computer vision and machine learning,
 
 Over the years, I have worked on 3D foundation models and pre-training, self-supervised learning, deep generative modeling, learning-based feature and image matching, deep learning architectures, robust optimization, Gaussian processes, visual SLAM, 3D reconstruction and localization, as well as filtering and optimization on manifolds.
 
+A selection of publications is available [here](https://gbourmaud.github.io/selectedpublications/), while the complete list can be found [here](https://scholar.google.fr/citations?user=d4v2IYMAAAAJ&hl=fr).
+
 
 
