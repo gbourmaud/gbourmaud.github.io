@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guillaume Bourmaud's homepage"
+title                    : "Guillaume Bourmaud"
 title_separator          : "-"
 name                     : &name "Guillaume Bourmaud"
 description              : &description "personal description"
