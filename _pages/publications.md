@@ -100,13 +100,13 @@ For the full list of publications, please visit my [Google Scholar profile](http
 
 >   **From Intrinsic Optimization to Iterated Extended Kalman Filtering on Lie Groups**  
 >**G.Bourmaud**, R.Megret, A.Giremus, Y.Berthoumieu, JMIV, 2016  
->   [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311169%2Fdocument&sa=D&sntz=1&usg=AOvVaw1_8VD4xMiEvz5l1oc8-Lk5) [**[Matlab code\]**](https://gbourmaud.github.io/files/publications/JMIV_2016_code.zip)
+>   [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311169%2Fdocument&sa=D&sntz=1&usg=AOvVaw1_8VD4xMiEvz5l1oc8-Lk5)
 
  
 
 >    **Continuous-Discrete Extended Kalman Filter on Matrix Lie Groups Using Concentrated Gaussian Distributions**  
 >**G.Bourmaud**, M.Arnaudon, R.Megret, A.Giremus, JMIV, 2015  
->    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311170%2Fdocument&sa=D&sntz=1&usg=AOvVaw0TrU_DVsfEf_SR2YnL5Uau) [**[Matlab code\]**](https://gbourmaud.github.io/files/publications/JMIV_2015_code.zip)
+>    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fhal.archives-ouvertes.fr%2Fhal-01311170%2Fdocument&sa=D&sntz=1&usg=AOvVaw0TrU_DVsfEf_SR2YnL5Uau)
 
 
 
@@ -118,13 +118,13 @@ For the full list of publications, please visit my [Google Scholar profile](http
 
 >    **Robust Large Scale Monocular Visual SLAM**  
 >**G.Bourmaud** and Y.Berthoumieu, CVPR, 2015  
->    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/CVPR_2015_supp.pdf) [**[Matlab code\]**](on request) [**[video\]**](https://www.youtube.com/watch?v=EUHflAtI2gI)
+>    [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.cv-foundation.org%2Fopenaccess%2Fcontent_cvpr_2015%2Fpapers%2FBourmaud_Robust_Large_Scale_2015_CVPR_paper.pdf&sa=D&sntz=1&usg=AOvVaw2Xi8PJEM-pGtqMrL4dgK_F) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/CVPR_2015_supp.pdf)
 
 
 
 >  **Global Motion Estimation from Relative Measurements in the Presence of Outliers**  
 >**G.Bourmaud**, R.Megret, A.Giremus and Y.Berthoumieu, ACCV, 2014  
->  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807892%2FGlobal_Motion_Estimation_from_Relative_Measurements_in_the_Presence_of_Outliers&sa=D&sntz=1&usg=AOvVaw1wXq4mjRHJDkVarf83WhQz) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ACCV_2014_supp.pdf) [**[Matlab code\]**](https://gbourmaud.github.io/files/publications/ACCV_2014_code.zip)
+>  [**[paper\]**](https://www.google.com/url?q=https%3A%2F%2Fwww.academia.edu%2F9807892%2FGlobal_Motion_Estimation_from_Relative_Measurements_in_the_Presence_of_Outliers&sa=D&sntz=1&usg=AOvVaw1wXq4mjRHJDkVarf83WhQz) [**[supp. mat.\]**](https://gbourmaud.github.io/files/publications/ACCV_2014_supp.pdf)
 
 
 
